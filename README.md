@@ -1,4 +1,4 @@
-# Build a Semantic Book Recommender with LLMs – Full Course
+# Build a Semantic Book Recommender with LLMs
 
 This repo contains all of the code to complete "Build a Semantic Book Recommender with LLMs". There are five components to this project:
 * Text data cleaning (code in the notebook `data-exploration.ipynb`)
